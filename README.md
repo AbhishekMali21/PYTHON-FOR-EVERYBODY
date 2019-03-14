@@ -7,8 +7,8 @@
 |2| VARIABLES, EXPRESSIONS, AND STATEMENTS|[CHPT 2](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%202.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%202%20exercises.ipynb)|
 |3| CONDITIONAL EXECUTION|[CHPT 3](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%203.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%203%20exercises.ipynb)|
 |4| FUNCTIONS|[CHPT 4](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%204.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%204%20exercises.ipynb)
-|5| ITERATION|[CHPT 5]()|[EXER]()
-|6| STRINGS|[CHPT 6]()|[EXER]()
+|5| ITERATION|[CHPT 5](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%205.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%205%20exercises.ipynb)
+|6| STRINGS|[CHPT 6](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%206.ipynb)|[EXER]()
 |7| FILES|[CHPT 7]()|[EXER]()
 |8| LISTS|[CHPT 8]()|[EXER]()
 |9| DICTIONARIES|[CHPT 9]()|[EXER]()
