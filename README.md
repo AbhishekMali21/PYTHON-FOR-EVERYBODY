@@ -9,7 +9,7 @@
 |4| FUNCTIONS|[CHPT 4](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%204.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%204%20exercises.ipynb)|
 |5| ITERATION|[CHPT 5](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%205.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%205%20exercises.ipynb)|
 |6| STRINGS|[CHPT 6](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%206.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%206%20exercises.ipynb)|
-|7| FILES|[CHPT 7](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%207.ipynb)|[EXER]|
+|7| FILES|[CHPT 7](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%207.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%207%20exercises.ipynb)|
 |8| LISTS|[CHPT 8]|[EXER]|
 |9| DICTIONARIES|[CHPT 9]|[EXER]|
 |10| TUPLES|[CHPT 10]|[EXER]|
