@@ -14,7 +14,7 @@
 |9| DICTIONARIES|[CHPT 9](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%209.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%209%20exercises.ipynb)|
 |10| TUPLES|[CHPT 10](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2010.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2010%20exercises.ipynb)|
 |11| REGULAR EXPRESSIONS|[CHPT 11](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2011.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2011%20exercises.ipynb)|
-|12| NETWORKED PROGRAMS|[CHPT 12]|[EXER]|
+|12| NETWORKED PROGRAMS|[CHPT 12](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2012.ipynb)|[EXER]|
 |13| USING WEB SERVICES|[CHPT 13]|[EXER]|
 |14| OBJECT-ORIENTED PROGRAMMING|[CHPT 14]|[EXER]|
 |15| USING DATABASES AND SQL|[CHPT 15]|[EXER]|
