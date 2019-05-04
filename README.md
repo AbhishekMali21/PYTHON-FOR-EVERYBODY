@@ -15,6 +15,6 @@
 |10| TUPLES|[CHPT 10](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2010.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2010%20exercises.ipynb)|
 |11| REGULAR EXPRESSIONS|[CHPT 11](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2011.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2011%20exercises.ipynb)|
 |12| NETWORKED PROGRAMS|[CHPT 12](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2012.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2012%20exercises.ipynb)|
-|13| USING WEB SERVICES|[CHPT 13]|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2013%20exercises.ipynb)|
-|14| OBJECT-ORIENTED PROGRAMMING|[CHPT 14]|[EXER]|
-|15| USING DATABASES AND SQL|[CHPT 15]|[EXER]|
+|13| USING WEB SERVICES|-|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2013%20exercises.ipynb)|
+|14| OBJECT-ORIENTED PROGRAMMING|-|-|
+|15| USING DATABASES AND SQL|-|-|
