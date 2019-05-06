@@ -1,5 +1,8 @@
 # PYTHON-FOR-EVERYBODY
 
+| Python for Everybody - Exploring Data Using Python 3  | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
+
+
 ## Contents
 |CHAPTER NO:|CHAPTER NAME|PRACTICE|EXERCISES|
 |:----------:|:----------:|:--------------:|:------:|
