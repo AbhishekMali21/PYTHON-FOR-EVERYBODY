@@ -1,6 +1,5 @@
 # PYTHON-FOR-EVERYBODY
-
-| Python for Everybody - Exploring Data Using Python 3  | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
+| Python for Everybody - Exploring Data Using Python 3 | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
 
 
 ## Contents
@@ -21,3 +20,15 @@
 |13| USING WEB SERVICES|-|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2013%20exercises.ipynb)|
 |14| OBJECT-ORIENTED PROGRAMMING|-|-|
 |15| USING DATABASES AND SQL|-|-|
+
+
+# THINK PYTHON
+| Think Python - How to Think Like a Computer Scientist | Author - Allen Downey | Chapter Practices & Exercises |
+
+
+## Contents
+|CHAPTER NO:|CHAPTER NAME|PRACTICE|EXERCISES|
+|:----------:|:----------:|:--------------:|:------:|
+|15|CLASSES AND OBJECTS|[CHPT 15]||
+|16|CLASSES AND FUNCTIONS|[CHPT16]|-|
+|17|CLASSES AND METHODS|[CHPT 17]|-|
