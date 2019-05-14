@@ -30,5 +30,5 @@
 |CHAPTER NO:|CHAPTER NAME|PRACTICE|EXERCISES|
 |:----------:|:----------:|:--------------:|:------:|
 |15|CLASSES AND OBJECTS|[CHPT 15](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2015.ipynb)|[EXER](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2015%20-%20exercises.ipynb)|
-|16|CLASSES AND FUNCTIONS|[CHPT16]|-|
+|16|CLASSES AND FUNCTIONS|[CHPT16](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2016.ipynb)|-|
 |17|CLASSES AND METHODS|[CHPT 17]|-|
