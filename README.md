@@ -1,6 +1,23 @@
 # PYTHON-FOR-EVERYBODY
 | Python for Everybody-Exploring Data Using Python 3 | Author - Charles R. Severance @csev | Chapter Practices & Exercises |
 
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=social)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=social)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=social)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/stargazers)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=flat-square)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/PYTHON-FOR-EVERYBODY?style=flat-square)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/PYTHON-FOR-EVERYBODY?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/PYTHON-FOR-EVERYBODY.svg)](http://hits.dwyl.com/AbhishekMali21/PYTHON-FOR-EVERYBODY)
+
 ![cover](https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/cover3.jpg)
 
 
